@@ -44,7 +44,8 @@ SLU（上海立信会计金融学院）图书馆座位自动预约
 | Wenbo_3F_A_2  | 三楼阅览室A-2区 |
 | Wenbo_3F_A_3  | 三楼阅览室A-3区 |
 
+## 鸣谢
+感谢[gzhu-libbooking-master](https://github.com/lighthookyu/gzhu-libbooking-master) 作者提供的思路。
 
-
-#### 注
-目前只有浦东校区的图书馆信息，后续如果有需求可以增加其他校区信息。
+### 注
+目前只有浦东校区的图书馆信息，后续如果有需求可以增加其他校区信息。 
