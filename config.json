@@ -1,0 +1,13 @@
+{
+  "username": "",
+  "password": "",
+  "habit": [
+    {
+      "room": "Mulan_2F_book",
+      "seat_id": "PDT2FSK120",
+      "day": "today",
+      "bt": "09:30:00",
+      "et": "22:30:00"
+    }
+  ]
+}
